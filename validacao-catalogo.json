@@ -1,0 +1,71 @@
+{
+  "method": "Inspecao estatica independente em JavaScript; nao executa Lua nem testa Roblox.",
+  "results": [
+    {
+      "title": "GOLDEN HOUR",
+      "steps": 1080,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "YOUNG GIRL A",
+      "steps": 790,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "MOONLIGHT SONATA - THIRD MOVEMENT",
+      "steps": 3653,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "UNDERTALE",
+      "steps": 1227,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "TURKISH MARCH",
+      "steps": 1516,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "UNRAVEL (ANIMENZ ARR.)",
+      "steps": 1761,
+      "unknownLines": 0,
+      "conflicts": 20
+    },
+    {
+      "title": "SNOWFALL",
+      "steps": 386,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "BOHEMIAN RHAPSODY",
+      "steps": 924,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "RENAI CIRCULATION",
+      "steps": 302,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "WE NOT LIKE YOU",
+      "steps": 240,
+      "unknownLines": 0,
+      "conflicts": 0
+    },
+    {
+      "title": "FLIGHT (MAN OF STEEL)",
+      "steps": 127,
+      "unknownLines": 0,
+      "conflicts": 0
+    }
+  ]
+}
